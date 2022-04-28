@@ -74,3 +74,9 @@ main>.container {
     bottom: 0;
     width: 100%;
 }
+
+@media screen and (max-width: 400px) {
+    .responsiveicon {
+        font-size: 18vw;
+    }
+}
